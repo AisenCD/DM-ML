@@ -4,8 +4,8 @@ Investing
 
 
 Financial Risk-Management
-  # Calculate Credit Score
-  # Identify rogue user  
+  # Predict creditworthiness
+  # Fraud Prevention  
   # AI/ML/DM in Audit
 
 
@@ -14,8 +14,10 @@ NLP for Investment
   # Automatically generate keyword tags
   # Named Entity Recognition
   # Sentiment Analysis
-  # Knowledge Graph (Financial Market)
+  # Chatbot
   # User Profiling (Financial Market)
+  # Knowledge Graph (Financial Market)
+
 
 
 Recommandation System for Investment
@@ -32,5 +34,6 @@ Recommandation System for Investment
 
 Gebiete:
 QuantFinance
+  https://igniteoutsourcing.com/publications/machine-learning-in-finance/
 NLP
 Recommandation System
