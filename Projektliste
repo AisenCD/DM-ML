@@ -11,13 +11,14 @@ Financial Risk-Management
 
 
 NLP for Investment
-  # Knowledge Graph (Financial Market)
   # Sentiment Analysis
-  # User Profiling (Financial Market)
-  # Summarize blocks of text
-  # Chatbot
+  # Knowledge Graph (Financial Market)
+  # Financial Robo-Advisor
 
 
+
+
+#################################################
 
 Recommandation System for Investment
   # Asset suggestion
@@ -29,7 +30,10 @@ Weitere DM/ML-Projekte für Investment
 
 
 
-#################################################
+# User Profiling (Financial Market)
+  # Summarize blocks of text
+  # Chatbot
+
 
 Gebiete:
 QuantFinance
